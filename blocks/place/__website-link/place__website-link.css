@@ -1,7 +1,11 @@
 .place__website-link {
+  max-width: 456px;
   font-size: 18px;
   font-weight: normal;
   line-height: 1.22;
   font-family: 'Inter';
   color: #ffffff;
+}
+.place__website-link:hover {
+  opacity: 0.8;
 }

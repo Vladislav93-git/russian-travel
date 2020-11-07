@@ -9,7 +9,7 @@
 @media screen and (max-width: 768px) {
   .place__paragraph {
     font-size: 16px;
-    line-height: 1.26;
+    line-height: 1.63;
   }
 }
 @media screen and (max-width: 560px) {
