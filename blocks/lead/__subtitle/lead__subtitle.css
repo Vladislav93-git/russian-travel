@@ -9,7 +9,6 @@
   color: #ffffff;
   margin: 0;
   margin-top: 32px;
-  margin-bottom: 64px;
 }
 @media screen and (max-width: 1024px) {
   .lead__subtitle {
