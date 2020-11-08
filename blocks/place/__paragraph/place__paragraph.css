@@ -3,7 +3,7 @@
   font-size: 18px;
   font-weight: normal;
   line-height: 1.63;
-  font-family: 'Inter';
+  font-family: 'Inter', 'Arial', sans-serif;
   color: #ffffff;
 }
 @media screen and (max-width: 768px) {
